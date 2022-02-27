@@ -15,11 +15,11 @@ In 2017, only one of the twelve stocks had a negative return. While in 2018, ten
 ## Code execution times
 When comparing the execution times of the original script and the refactored script, it is clear that the refactored script runs faster. 
 
-![2017 original run](resources/2017_original_run) ![2017 refactored run](resources/VBA_challenge_2017)
+![2017 original run](resources/.png) ![2017 refactored run](resources/VBA_challenge_2017.png)
 
 the execution time for the original code using the 2017 data set is 0.640625 seconds. the execution time for the refactored code using the 2017 data was 0.1640625 seconds. The refactored code is almost four times faster than the original code. 
 
-![2018 original run](resources/2018_original_run) ![2018 refactored run](resources/VBA_challenge_2018)
+![2018 original run](resources/2018_original_run.png) ![2018 refactored run](resources/VBA_challenge_2018.png)
 
 the execution time of the original code for 2018 is 0.65625 seconds. While the refactored code speed is 0.15625 seconds. This is actually more than four times faster than the original code speed. 
 # Summary
